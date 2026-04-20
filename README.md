@@ -24,17 +24,11 @@ I am a **Software Engineering Student** and a dedicated **Freelance iOS Develope
 #### 🍎 Premium Mobile (Expert)
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Simulator-68A063?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-007ACC?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core_Data-007ACC?style=for-the-badge&logo=icloud&logoColor=white" />
-  <br>
+  <img src="https://img.shields.io/badge/SwiftUI-00D2FF?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Combine-5856D6?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/WatchOS-000000?style=for-the-badge&logo=apple-watch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TVOS-000000?style=for-the-badge&logo=apple-tv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestFlight-007ACC?style=for-the-badge&logo=testflight&logoColor=white" />
-  <img src="https://img.shields.io/badge/App_Store-007ACC?style=for-the-badge&logo=app-store&logoColor=white" />
+  <img src="https://img.shields.io/badge/WatchOS-FF3B30?style=for-the-badge&logo=apple-watch&logoColor=white" />
+  <img src="https://img.shields.io/badge/App_Store-0D96F0?style=for-the-badge&logo=app-store&logoColor=white" />
 </p>
 
 #### 🤖 AI-Powered IDEs & Agents
