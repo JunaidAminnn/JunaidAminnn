@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Junaid Amin!
-
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
