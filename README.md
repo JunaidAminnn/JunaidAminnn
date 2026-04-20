@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Junaid Amin!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=iOS%20Developer%20&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="banner.png" width="100%" />
 </p>
 
 <p align="center">
