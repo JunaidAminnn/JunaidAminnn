@@ -12,21 +12,38 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineering Student** and a dedicated **Freelance iOS Developer** with a passion for building high-performance, user-centric mobile applications. My expertise lies in crafting seamless experiences using **Swift** and **SwiftUI**. 
+I am a **Software Engineering Student** and a dedicated **Freelance iOS Developer** with a passion for building high-performance, user-centric mobile applications. My expertise lies in crafting seamless experiences on **macOS** and **iOS** using **Swift** and **SwiftUI**. 
 
-- 🍎 **iOS Expert**: Specialized in architecting scalable mobile solutions and interactive UIs.
-- 🤖 **AI Enthusiast**: Interested in integrating production-ready ML models into mobile ecosystems.
-- 🗄️ **Full Stack Flex**: Skilled in Database Management (MySQL) and building robust back-ends.
+- 🍎 **iOS/Mac Expert**: Specialized in architecting scalable mobile and desktop solutions.
+- 🤖 **AI Enthusiast**: Leveraging next-gen AI tools and models for production-ready systems.
+- 🗄️ **Data Focus**: Skilled in Database Management (MySQL) and data-driven architectures.
 - 🎨 **Design Driven**: Focused on clean, premium aesthetics and intuitive UX.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
+#### 📱 Mobile & OS Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,javascript,nodejs,express,mysql,firebase,python,tensorflow,git,vscode,postman,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=swift,apple,py,tensorflow,mysql&theme=dark" />
   </a>
+</p>
+
+#### 🤖 AI-Powered Workflow
+<img src="https://img.shields.io/badge/Antigravity-FF6833?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-563D7C?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Windsurf-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Cairo-D1AD00?style=for-the-badge&logo=graphics&logoColor=white" />
+
+#### 🐙 Version Control
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-4078C0?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
