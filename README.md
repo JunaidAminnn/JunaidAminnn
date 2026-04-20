@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Junaid Amin!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=iOS%20Developer%20&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=iOS%20Developer%20&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
@@ -12,38 +12,52 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineering Student** and a dedicated **Freelance iOS Developer** with a passion for building high-performance, user-centric mobile applications. My expertise lies in crafting seamless experiences on **macOS** and **iOS** using **Swift** and **SwiftUI**. 
+I am a **Software Engineering Student** and a dedicated **Freelance iOS Developer**. My expertise lies in building high-performance, user-centric mobile applications on **macOS** and **iOS** using **Swift** and **SwiftUI**. I am also proficient in leveraging advanced AI systems to streamline development and architect scalable solutions.
 
-- 🍎 **iOS/Mac Expert**: Specialized in architecting scalable mobile and desktop solutions.
-- 🤖 **AI Enthusiast**: Leveraging next-gen AI tools and models for production-ready systems.
-- 🗄️ **Data Focus**: Skilled in Database Management (MySQL) and data-driven architectures.
-- 🎨 **Design Driven**: Focused on clean, premium aesthetics and intuitive UX.
+- 🍎 **Premium iOS/Mac Stack (Expert)**: Specialized in architecting top-tier mobile & desktop apps.
+- 📱 **Android Ecosystem (Basic)**: Proficient in fundamental Android development.
+- 🤖 **AI-First Workflow**: Expertly integrating agentic AI IDEs into the production cycle.
+- 🎨 **Design Philosophy**: Focused on premium, high-end aesthetics and seamless UX.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Advanced Tools
 
-#### 📱 Mobile & OS Development
+#### 🍎 Premium Mobile (Expert)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,py,tensorflow,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" />
   </a>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulator-68A063?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-#### 🤖 AI-Powered Workflow
-<img src="https://img.shields.io/badge/Antigravity-FF6833?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-563D7C?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Windsurf-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Cairo-D1AD00?style=for-the-badge&logo=graphics&logoColor=white" />
+#### 🤖 AI-Powered IDEs & Agents
+<p align="left">
+  <img src="https://img.shields.io/badge/Antigravity-FF6833?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiro-D1AD00?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trae-00ADD8?style=for-the-badge&logo=bytedance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-563D7C?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-FF9F00?style=for-the-badge&logo=safari&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orchids-E4405F?style=for-the-badge&logo=flower&logoColor=white" />
+</p>
 
-#### 🐙 Version Control
+#### 💻 Traditional IDEs & Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,mysql,git,github,py,tensorflow&theme=dark" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Desktop-4078C0?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+#### 📱 Android Development (Basic)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin&theme=dark" />
+  </a>
 </p>
 
 ---
