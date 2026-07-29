@@ -56,6 +56,8 @@ I am a **Software Engineering Student** and a dedicated **iOS Developer** specia
   <img src="https://img.shields.io/badge/Cursor-563D7C?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf-FF9F00?style=for-the-badge&logo=safari&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memocode-4A90E2?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 #### 🛠️ General Technologies
