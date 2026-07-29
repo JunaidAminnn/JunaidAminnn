@@ -3,31 +3,31 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=460&lines=Flutter+%26+Mobile+Developer;iOS+%26+SwiftUI+Specialist;Firebase+%26+Stripe+Integration;AI+Models+%26+API+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=460&lines=iOS+%26+SwiftUI+Specialist;Flutter+%26+Cross-Platform+Apps;Firebase+%26+Stripe+Integration;AI+Models+%26+Backend+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineering Student** and a passionate **Mobile & Full-Stack Developer**. My expertise spans building cross-platform applications with **Flutter & Dart**, native iOS apps using **Swift & SwiftUI**, as well as integrating robust backend services with **Firebase**, **Stripe payment systems**, **Flask APIs**, and cutting-edge **AI Models**.
+I am a **Software Engineering Student** and a dedicated **iOS Developer** specializing in native **Swift & SwiftUI** development. While my primary domain and expertise lie in the iOS ecosystem, I also possess strong hands-on experience and capability in building cross-platform mobile applications using **Flutter & Dart**, alongside integrating robust backend services with **Firebase**, **Stripe payment systems**, and **AI Models**.
 
-- 💙 **Flutter & Cross-Platform**: Building scalable, responsive iOS & Android apps with **Flutter & Dart**.
-- 🍎 **Native iOS Specialist**: Expert in **Swift**, **SwiftUI**, Combine, and Apple Ecosystem architectures.
-- 🔥 **Firebase & Cloud Suite**: Deep hands-on experience with Firestore, Auth, Storage, and Realtime DB.
-- 💳 **Payments & APIs**: Implementing **Stripe** payment gateways, escrow flows, and **Coin/Crypto APIs**.
-- 🤖 **AI & LLM Integration**: Incorporating **OpenAI**, **Google Gemini**, and **Claude** AI models into web & mobile applications.
+- 🍎 **Native iOS Specialist (Primary Focus)**: Specialized in architecting high-performance mobile & desktop apps using **Swift** & **SwiftUI**.
+- 💙 **Flutter & Cross-Platform**: Skilled in building smooth, production-ready cross-platform apps with **Flutter & Dart**.
+- 🔥 **Firebase Suite**: Hands-on experience with Firestore, Authentication, Cloud Storage, and Realtime backend solutions.
+- 💳 **Payments & Integrations**: Implementing secure **Stripe** payment gateways, escrow flows, and RESTful APIs.
+- 🤖 **AI & LLM Integration**: Incorporating **OpenAI**, **Google Gemini**, and **Claude** AI models into modern applications.
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-#### 📱 Mobile & Cross-Platform
+#### 🍎 Mobile & Cross-Platform
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-00D2FF?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/App_Store-0D96F0?style=for-the-badge&logo=app-store&logoColor=white" />
 </p>
@@ -46,7 +46,6 @@ I am a **Software Engineering Student** and a passionate **Mobile & Full-Stack D
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crypto_%26_Coin_APIs-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
 </p>
 
 #### 🤖 AI-Powered Agents & Dev Tools
@@ -62,7 +61,7 @@ I am a **Software Engineering Student** and a passionate **Mobile & Full-Stack D
 #### 🛠️ General Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,swift,py,flask,firebase,sqlite,postgres,docker,git,github,vscode,androidstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,py,flask,firebase,sqlite,postgres,docker,git,github,vscode,androidstudio&theme=dark" />
   </a>
 </p>
 
@@ -71,8 +70,8 @@ I am a **Software Engineering Student** and a passionate **Mobile & Full-Stack D
 ### 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunaidAminnn&show_icons=true&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidAminnn&layout=compact&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
+  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=JunaidAminnn&show_icons=true&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
+  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=JunaidAminnn&layout=compact&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
 </div>
 
 <p align="center">
