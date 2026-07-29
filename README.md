@@ -3,35 +3,53 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Freelance+iOS+Developer;Swift+%26+SwiftUI+Expert;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=460&lines=Flutter+%26+Mobile+Developer;iOS+%26+SwiftUI+Specialist;Firebase+%26+Stripe+Integration;AI+Models+%26+API+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineering Student** and a dedicated **Freelance iOS Developer**. My expertise lies in building high-performance, user-centric mobile applications on **macOS** and **iOS** using **Swift** and **SwiftUI**. I am also proficient in leveraging advanced AI systems to streamline development and architect scalable solutions.
+I am a **Software Engineering Student** and a passionate **Mobile & Full-Stack Developer**. My expertise spans building cross-platform applications with **Flutter & Dart**, native iOS apps using **Swift & SwiftUI**, as well as integrating robust backend services with **Firebase**, **Stripe payment systems**, **Flask APIs**, and cutting-edge **AI Models**.
 
-- 🍎 **Premium iOS/Mac Stack (Expert)**: Specialized in architecting top-tier mobile & desktop apps.
-- 📱 **Android Ecosystem (Basic)**: Proficient in fundamental Android development.
-- 🤖 **AI-First Workflow**: Expertly integrating agentic AI IDEs into the production cycle.
-- 🎨 **Design Philosophy**: Focused on premium, high-end aesthetics and seamless UX.
+- 💙 **Flutter & Cross-Platform**: Building scalable, responsive iOS & Android apps with **Flutter & Dart**.
+- 🍎 **Native iOS Specialist**: Expert in **Swift**, **SwiftUI**, Combine, and Apple Ecosystem architectures.
+- 🔥 **Firebase & Cloud Suite**: Deep hands-on experience with Firestore, Auth, Storage, and Realtime DB.
+- 💳 **Payments & APIs**: Implementing **Stripe** payment gateways, escrow flows, and **Coin/Crypto APIs**.
+- 🤖 **AI & LLM Integration**: Incorporating **OpenAI**, **Google Gemini**, and **Claude** AI models into web & mobile applications.
 
 ---
 
-### 🛠️ Tech Stack & Advanced Tools
+### 🛠️ Tech Stack & Ecosystem
 
-#### 🍎 Premium Mobile (Expert)
+#### 📱 Mobile & Cross-Platform
 <p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-00D2FF?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Combine-5856D6?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/WatchOS-FF3B30?style=for-the-badge&logo=apple-watch&logoColor=white" />
   <img src="https://img.shields.io/badge/App_Store-0D96F0?style=for-the-badge&logo=app-store&logoColor=white" />
 </p>
 
-#### 🤖 AI-Powered IDEs & Agents
+#### 🔥 Cloud, Payments & Backend Services
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+#### 🧠 AI Models & API Integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crypto_%26_Coin_APIs-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+</p>
+
+#### 🤖 AI-Powered Agents & Dev Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Antigravity-FF6833?style=for-the-badge&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/Kiro-D1AD00?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -39,37 +57,26 @@ I am a **Software Engineering Student** and a dedicated **Freelance iOS Develope
   <img src="https://img.shields.io/badge/Cursor-563D7C?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf-FF9F00?style=for-the-badge&logo=safari&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orchids-E4405F?style=for-the-badge&logo=flower&logoColor=white" />
 </p>
 
-#### 💻 Traditional IDEs & Development Tools
+#### 🛠️ General Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,mysql,git,github,py,tensorflow&theme=dark" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-4078C0?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-#### 📱 Android Development (Basic)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,swift,py,flask,firebase,sqlite,postgres,docker,git,github,vscode,androidstudio&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunaidAminnn&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidAminnn&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunaidAminnn&show_icons=true&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidAminnn&layout=compact&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidAminnn&theme=dark&background=151515&ring=bb2acf&fire=bb2acf" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidAminnn&theme=dark&background=151515&ring=00D2FF&fire=00D2FF&border=30363d" alt="streak stats" />
 </p>
 
 ---
