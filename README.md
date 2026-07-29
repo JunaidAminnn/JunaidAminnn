@@ -35,15 +35,15 @@ I am a **Software Engineering Student** and a dedicated **iOS Developer** specia
 #### 🔥 Cloud, Payments & Backend Services
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-22C55E?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 #### 🧠 AI Models & API Integrations
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
@@ -51,13 +51,13 @@ I am a **Software Engineering Student** and a dedicated **iOS Developer** specia
 #### 🤖 AI-Powered Agents & Dev Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Antigravity-FF6833?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kiro-D1AD00?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiro-EAB308?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Trae-00ADD8?style=for-the-badge&logo=bytedance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-563D7C?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windsurf-FF9F00?style=for-the-badge&logo=safari&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-6366F1?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-EC4899?style=for-the-badge&logo=safari&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memocode-4A90E2?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memocode-3B82F6?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 #### 🛠️ General Technologies
@@ -92,6 +92,6 @@ I am a **Software Engineering Student** and a dedicated **iOS Developer** specia
 
 ---
 
-<p align="center">
+<p align=center>
 <i>"Turning coffee into code, one app at a time."</i> ☕📱
 </p>
