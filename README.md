@@ -70,12 +70,12 @@ I am a **Software Engineering Student** and a dedicated **iOS Developer** specia
 ### 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=JunaidAminnn&show_icons=true&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=JunaidAminnn&layout=compact&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JunaidAminnn&show_icons=true&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JunaidAminnn&layout=compact&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidAminnn&theme=dark&background=151515&ring=00D2FF&fire=00D2FF&border=30363d" alt="streak stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidAminnn&theme=react-dark&bg_color=151515&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=false" alt="Activity Graph" />
 </p>
 
 ---
@@ -83,8 +83,8 @@ I am a **Software Engineering Student** and a dedicated **iOS Developer** specia
 ### 🔗 Connect with Me
 
 <p align="center">
-<a href="mailto:itsmejunaidamin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="itsmejunaidamin" /></a>
-<a href="https://linkedin.com/in/itsmejunaidamin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="itsmejunaidamin" /></a>
+<a href="mailto:itsmejunaidamin@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="itsmejunaidamin@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/junaid-amin-6bb237268" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 <a href="https://instagram.com/itsmejunaidamin" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="itsmejunaidamin" /></a>
 </p>
 
