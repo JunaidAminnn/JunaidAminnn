@@ -71,11 +71,6 @@ I am a **Software Engineering Student** and a dedicated **iOS Developer** specia
 
 ### 📊 GitHub Analytics & Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JunaidAminnn&show_icons=true&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JunaidAminnn&layout=compact&title_color=00D2FF&icon_color=00D2FF&text_color=daf7dc&bg_color=151515&border_color=30363d" />
-</div>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidAminnn&theme=react-dark&bg_color=151515&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=false" alt="Activity Graph" />
 </p>
